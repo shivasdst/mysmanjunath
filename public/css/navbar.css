@@ -46,9 +46,13 @@
 .navbar .navbar-nav > .active > a:focus {
 	background-color: transparent;
 }
+.navbar .navbar-nav > li > a{
+	color: #666 !important;
+}
+
 .navbar .navbar-nav > li > a:hover,
 .navbar .navbar-nav > li > a:focus {
- 	color: #D50000;
+ 	color: #000 !important;
 }
 .navbar-nav .dropdown-menu {
 	box-shadow: 2px 2px 10px rgba(0,0,0,0.175);

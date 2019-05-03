@@ -60,4 +60,11 @@ $(document).ready(function() {
         var viewer = new Viewer(document.getElementById('viewletterimages'), {url: 'data-original'});
     }
 
+    $('.grid').masonry({
+      // options
+      itemSelector: '.grid-item',
+      columnWidth: 200,
+      gutter: 10
+    });
+
 });
