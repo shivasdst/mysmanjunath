@@ -71,6 +71,7 @@
               <li><span class="text-info">Rotary Namana Excellence Award</span></li>
               <li><span class="text-info">Samskruthi Sinchana</span> – Alva’s</li>
             </ul>
+            <div><a class="text-info mt-5" href="<?=PUBLIC_URL?>Downloads/Dr-Mysore-Manjunath-Profile-2018.pdf" target="_blank">Click Here to download Dr. Manjunath’s Profile</a></div>
         </div>
     </div>
   </div>
