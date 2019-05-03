@@ -12,12 +12,98 @@ html,body{
 }
 
 .carousel{
- margin-top: 80px;
+  margin-top: 80px;
+}
+
+.gap-above-large{
+  margin-top: 140px;
+}
+
+.gap-above-medium{
+  margin-top: 100px;
+}
+
+.gap-above-small{
+  margin-top: 70px;
+}
+
+.gap-below-large{
+  margin-bottom: 50px;
+}
+
+.gap-below-extralarge{
+  margin-bottom: 70px;
+}
+
+.divheading{
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #EA8D8D;
+  margin-bottom: 1em;
+  font-weight: 600;
+}
+
+.l-1-5{
+  line-height: 1.5;
+}
+.l-1-2{
+  line-height: 1.2;
+}
+
+.reviews-border-right{
+  padding-right: 10px;
+  border-right: 1px solid #EA8D8D;  
+}
+
+.reviews-border-left{
+  padding-left: 10px;
+  border-left: 1px solid #EA8D8D;  
+}
+
+div.download img {
+  margin: 5px;
+  float: left;
+}
+
+footer.footerpadding{
+  padding: 1em;
+}
+
+footer div.footertext{
+  font-size: 0.8em;
+  color: #777;
+}
+
+footer h4 > span{
+ border-bottom: 1px solid #EA8D8D; 
+}
+footer h4{
+  margin-bottom: 0.8em;
+}
+
+footer .fa{
+  padding: 15px;
+  font-size: 25px;
+  color: #777;
+}
+
+a, a:hover{
+  text-decoration: none;
 }
 
 
 @media (min-width: 576px){
   .jumbotron {
-       padding: 1rem 0rem; 
+    padding: 1rem 0rem; 
   }
+}
+
+.grid-item { 
+  width: 200px; 
+  margin: 3px;
+}
+
+#viewletterimages{
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
 }
