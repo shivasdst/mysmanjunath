@@ -23,6 +23,7 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  
 
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/custom.css?v=1.4">
     <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>css/navbar.css?v=1.2">
@@ -45,12 +46,12 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav nav ml-auto">
               <li><a href="<?=BASE_URL?>#home">Home</a></li>
-              <li><a href="<?=BASE_URL?>#">About</a></li>
-              <li><a href="<?=BASE_URL?>#">Reviews</a></li>
+              <li><a href="<?=BASE_URL?>About">About</a></li>
+              <li><a href="<?=BASE_URL?>Reviews">Reviews</a></li>
               <li><a href="<?=BASE_URL?>#">Schedule</a></li>
-              <li><a href="<?=BASE_URL?>#">Gallery</a></li>
-              <li><a href="<?=BASE_URL?>#">Downloads</a></li>
-              <li><a href="<?=BASE_URL?>#">Contact</a></li>
+              <li><a href="<?=BASE_URL?>Gallery">Gallery</a></li>
+              <li><a href="<?=BASE_URL?>Downloads">Downloads</a></li>
+              <li><a href="<?=BASE_URL?>Contact">Contact</a></li>
           </ul>
       </div>
   </div>
