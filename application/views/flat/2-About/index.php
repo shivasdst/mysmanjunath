@@ -4,7 +4,7 @@
       <h1 class="display-5 text-center">About</h1>        
     </div>
   </div>  
-  <div class="row gap-above-large">
+  <div class="row gap-above-medium">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
       <h3 class="divheading">The First Melody</h3>
       <p class="h5 l-1-5">Amazingly gifted Violinist Dr. Mysore Manjunath, the son and disciple of renowned violinist Prof. S.Mahadevappa, was a remarkable child prodigy who matured quickly to emerge as one of the top ranking Violinist in India today. His exceptional musical talents were first revealed at very tender age of Eight when he stormed in to the music world sweeping all the music lovers & critics off their feet by his extraordinary musical acumen and technical virtuosity.</p>
