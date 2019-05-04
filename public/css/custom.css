@@ -18,7 +18,9 @@ html,body{
 .gap-above-large{
   margin-top: 140px;
 }
-
+.gap-above-heading-large{
+ margin-top: 130px; 
+}
 .gap-above-medium{
   margin-top: 100px;
 }
@@ -92,9 +94,24 @@ a, a:hover{
 }
 
 
-@media (min-width: 576px){
-  .jumbotron {
-    padding: 1rem 0rem; 
+@media (max-width: 576px){
+  .jumbotron{
+    padding: 1rem 1rem !important;
+  }
+  .gap-above-large, .sm-above-large{
+    margin-top: 90px;     
+  }  
+  .gap-above-heading-large{
+    margin-top: 70px;     
+  }
+  .main{
+    padding: 0 1em;
+  }
+  .gap-below-extralarge{
+    margin-bottom: 30px; 
+  }
+  .grid{
+    text-align: center;
   }
 }
 

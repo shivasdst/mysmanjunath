@@ -1,3 +1,21 @@
+#carousel{
+    width: 100%;
+}
+
+
+#carousel img{
+    background-position: center;
+    background-size: cover;
+}
+.carousel-indicators > li {
+  height: 14px;
+  width: 14px;  
+  border-radius: 50%;
+}
+
+.carousel-indicators .active {
+    opacity: 1;
+}
 .override-carousel-caption {
     position: absolute;
 /*    border-top: 2px solid #ea5644;
@@ -70,8 +88,11 @@
     padding: 0;
 }
 
-@media(max-width:768px) {
+@media(max-width:575.98px) {
     .caption-content{
         display: none;
+    }
+    .carousel-caption h4{
+        font-size: 0.9em;
     }
 }

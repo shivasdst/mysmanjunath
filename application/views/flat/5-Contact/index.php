@@ -14,7 +14,7 @@
       <p><i class="fa fa-mobile"></i> +91 9611 840840 <i class="fa fa-1x fa-phone"></i> +91 821- 2560840</p>
       <p class="boldgrid-google-maps" style="width: 100%; height: 200px;"><iframe style="width: 100%; height: 100%;" src="https://maps.google.com/maps?q=632%2C+Nadaloka%2C+4th+Main%2C+10th+Cross%2C+Ramakrishna+Nagar%2C+E+%26amp%3B+F+Block%2C+Mysore+-+570022%2C+India&amp;t=m&amp;z=16&amp;output=embed" frameborder="0"></iframe></p>
     </div>  
-    <div class="col-md-6">
+    <div class="col-md-6 sm-above-large">
       <form>
         <h4>Get In Touch</h4>
         <p>We are here to answer any questions you may have. Reach out to us and we’ll respond as soon as we can.</p>

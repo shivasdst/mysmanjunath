@@ -1,12 +1,12 @@
 <div class="container gap-above-large">
-  <div class="row">
+  <div class="row main">
     <div class="col-md-12">
       <h1 class="display-5 text-center">Downloads</h1>
       <p class="text-muted text-center gap-below-extralarge">Please feel free to download my profile photos<br />Click on the images to download</p>        
     </div>
   </div>  
   <div class="row">  
-    <div class="col-md-12 grid">
+    <div class="col-xs-12 col-sm-12 col-md-12 grid justify-content-center">
       <div class="grid-item">
         <span class="downloadphotos">
             <a href="<?=STOCK_IMAGE_URL?>downloads/DSC_0005-201x300.jpg" download><img src="<?=STOCK_IMAGE_URL?>downloads/thumbs/DSC_0005-201x300.jpg" alt="photo" /></a>
