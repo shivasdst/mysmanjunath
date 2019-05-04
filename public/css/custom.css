@@ -115,6 +115,12 @@ a, a:hover{
   }
 }
 
+@media (min-width: 576px){
+  .jumbotron {
+      padding: 1rem 2rem;
+  }
+}
+
 .grid-item { 
   width: 200px; 
   margin: 3px;
