@@ -22,9 +22,6 @@
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo13.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo13.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo14.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo14.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo15.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo15.jpg" alt="Gallery" /></div>
-        <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo16.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo16.jpg" alt="Gallery" /></div>
-        <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo17.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo17.jpg" alt="Gallery" /></div>
-        <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo18.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo18.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo19.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo19.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo20.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo20.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo21.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo21.jpg" alt="Gallery" /></div>
@@ -33,7 +30,6 @@
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo24.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo24.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo25.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo25.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo26.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo26.jpg" alt="Gallery" /></div>
-        <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo27.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo27.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo28.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo28.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo29.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo29.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo30.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo30.jpg" alt="Gallery" /></div>
@@ -54,11 +50,7 @@
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo45.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo45.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo46.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo46.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo47.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo47.jpg" alt="Gallery" /></div>
-        <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo48.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo48.jpg" alt="Gallery" /></div>
-        <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo49.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo49.jpg" alt="Gallery" /></div>
-        <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo50.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo50.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo51.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo51.jpg" alt="Gallery" /></div>
-        <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo52.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo52.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo53.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo53.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo54.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo54.jpg" alt="Gallery" /></div>
         <div class="grid-item"><img data-original="<?=STOCK_IMAGE_URL?>gallery/photo55.jpg" src="<?=STOCK_IMAGE_URL?>gallery/thumbs/photo55.jpg" alt="Gallery" /></div>
