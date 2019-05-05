@@ -1,19 +1,22 @@
 #carousel{
     width: 100%;
 }
-
-
+.carousel{
+  margin-top: 80px;
+}
 #carousel img{
     background-position: center;
     background-size: cover;
 }
-
 .carousel-indicators{
     left: inherit;
+    right: -200px;
+    bottom: 10px;
     top: inherit;
     height: inherit;
     width: inherit;
     margin-bottom: 5px;
+    display: none;
 }
 .carousel-indicators li {
     height: 12px;
@@ -34,10 +37,13 @@
     /*background-color: #FFF;*/
     background-color: rgba( 255, 255, 255, 0.1 );
 }
-
 .carousel-indicators .active {
     background-color: #FFF;
     opacity: 1;
+}
+
+.carousel-control {
+    color: #FFF;
 }
 
 .override-carousel-caption {
@@ -123,5 +129,14 @@
     }
     .carousel-indicators{
         display: none;
+    }
+    .carousel{
+      margin-top: 70px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 992px) {
+    .carousel{
+      margin-top: 55px;
     }
 }

@@ -1,5 +1,5 @@
 <div class="container-fluid text-center">
-    <div class="row" style="padding: 0;">
+    <div class="row">
         <div class="col-md-12">
           <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
             <ol class="carousel-indicators">
