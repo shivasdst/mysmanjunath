@@ -5,7 +5,7 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-md-6 text-center">
+    <div class="col-md-6 text-center pr-5">
       <h4><i class="fa fa-1x fa-map-marker"></i> Address</h4>
       <p>632, Nadaloka,<br />4th Main, 10th Cross,<br />Ramakrishna Nagar, E & F Block,<br /> Mysore – 570022,<br /> Karnataka, India.</p>
       <h4>Email</h4> 
