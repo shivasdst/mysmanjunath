@@ -1,4 +1,4 @@
-<div class="container gap-above-large">
+<div class="container gap-above-large gallerycenter">
   <div class="row gap-below-extralarge">
     <div class="col-md-12">
       <h1 class="display-5 text-center">Gallery</h1>

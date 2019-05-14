@@ -1,3 +1,4 @@
+<script src='https://www.google.com/recaptcha/api.js'></script>
 <div class="container">
   <div class="row gap-above-large">
     <div class="col-md-12">
@@ -15,26 +16,32 @@
       <p class="boldgrid-google-maps" style="width: 100%; height: 200px;"><iframe style="width: 100%; height: 100%;" src="https://maps.google.com/maps?q=632%2C+Nadaloka%2C+4th+Main%2C+10th+Cross%2C+Ramakrishna+Nagar%2C+E+%26amp%3B+F+Block%2C+Mysore+-+570022%2C+India&amp;t=m&amp;z=16&amp;output=embed" frameborder="0"></iframe></p>
     </div>  
     <div class="col-md-6 sm-above-large">
-      <form>
+      <form method="post" action="<?=BASE_URL . 'mail/send'?>">
         <h4>Get In Touch</h4>
         <p>We are here to answer any questions you may have. Reach out to us and we’ll respond as soon as we can.</p>
         <div class="form-group">
-          <label for="Name">Name</label>
-          <input type="text" class="form-control" id="name" name="name" placeholder="Name">
+          <label for="Name">Name<span class="text-danger">*</span></label>
+          <input type="text" class="form-control" id="name" name="name" required>
         </div>
         <div class="form-group">
           <label for="Email">Email<span class="text-danger">*</span></label>
-          <input type="text" class="form-control" id="email" name="email" placeholder="Email" required>
+          <input type="email" class="form-control" id="email" name="email" required>
         </div>
         <div class="form-group">
           <label for="Email">Subject</label>
-          <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+          <input type="text" class="form-control" id="subject" name="subject">
         </div>        
         <div class="form-group">
           <label for="Email">Message<span class="text-danger">*</span></label>
-          <textarea class="form-control" id="message" name="message" rows="3" required></textarea>
+          <textarea class="form-control" id="message" name="message" rows="6" required></textarea>
+        </div>
+        <div class="form-group">
+            <div>
+                <div class="g-recaptcha" data-sitekey="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI"></div>
+            </div>
         </div>
         <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+        <button type="reset" class="btn btn-primary btn-lg ml-4">Clear</button>
       </form>
     </div>  
   </div>  

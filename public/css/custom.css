@@ -116,6 +116,12 @@ a, a:hover{
   }
 }
 
+@media (min-width: 576px) and (max-width: 992px) {
+    .gallerycenter{
+      margin: 20px 20px;
+    }
+}
+
 .grid-item { 
   width: 200px; 
   margin: 3px;
@@ -124,4 +130,8 @@ a, a:hover{
 #viewletterimages{
   cursor: -webkit-zoom-in;
   cursor: zoom-in;
+}
+
+.captch-error, .page-full-screen{
+  height: 70%;
 }
