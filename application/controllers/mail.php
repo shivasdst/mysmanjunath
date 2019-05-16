@@ -34,7 +34,8 @@ class mail extends Controller {
 
 	        if(intval($responseKeys["success"])){
 				$mail->isMail();
-				$mail->setFrom($data['email'], $data['name']);
+				$mail->setFrom('admin@mysoremanjunath.com', 'Admin From mysoremanjunath.com');
+				// $mail->setFrom($data['email'], $data['name']);
 				$mail->addReplyTo($data['email'], $data['name']);
 				$mail->addAddress(SERVICE_EMAIL, SERVICE_NAME);
 				$mail->Subject = FB_SUBJECT_PREFIX . $data['subject'];
@@ -52,6 +53,28 @@ class mail extends Controller {
 			else{
 					$this->view('error/prompt', array('msg' => FB_CAPTCHA_RESP_MSG));
 			}
+		}
+	}
+
+	public function mailtest(){
+
+		$mail = new PHPMailer();
+
+		$mail->isMail();
+		$mail->setFrom('admin@mysoremanjunath.com', 'Admin From mysoremanjunath.com');
+		// $mail->setFrom($data['email'], $data['name']);
+		$mail->addReplyTo('shiva@srirangadigital.com', 'Shivashankar');
+		$mail->addAddress(SERVICE_EMAIL, SERVICE_NAME);
+		$mail->Subject = FB_SUBJECT_PREFIX . ' Nadaloka ';
+		$mail->Body = 'This is a simple test message';
+
+		if($mail->send()) {
+
+			$this->view('page/prompt', array('msg' => FB_SUCCESS_MSG));
+		}
+		else {
+
+			$this->view('error/prompt', array('msg' => FB_FAILURE_MSG));
 		}
 	}
 
