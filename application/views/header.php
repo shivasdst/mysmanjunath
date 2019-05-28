@@ -48,7 +48,7 @@
               <li><a href="<?=BASE_URL?>#home">Home</a></li>
               <li><a href="<?=BASE_URL?>About">About</a></li>
               <li><a href="<?=BASE_URL?>Reviews">Reviews</a></li>
-              <li><a href="<?=BASE_URL?>#">Schedule</a></li>
+              <li><a href="<?=BASE_URL?>Schedule">Schedule</a></li>
               <li><a href="<?=BASE_URL?>Gallery">Gallery</a></li>
               <li><a href="<?=BASE_URL?>Downloads">Downloads</a></li>
               <li><a href="<?=BASE_URL?>Contact">Contact</a></li>

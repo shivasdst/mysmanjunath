@@ -51,7 +51,7 @@
               <div class="carousel-item">
                 <img src="<?=STOCK_IMAGE_URL?>carousel8.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption scheme-dark">
-                  <h4>With Umayalpuram Shivamani Sir & Shivamani</h4>
+                  <h4>With Dr. Umayalpuram K Shivaraman & Shivamani</h4>
                 </div>
               </div>
             </div>
@@ -88,6 +88,20 @@
         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
            <img src="<?=STOCK_IMAGE_URL?>photo2.jpg" class="img-fluid" alt="" /> 
         </div>
+    </div>    
+    <div class="row gap-above-large">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mb-xs-5 mb-sm-5">
+           <img src="<?=STOCK_IMAGE_URL?>photo5.jpg" class="img-fluid" alt="" /> 
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+          <h3 class="divheading">Upcoming Concerts</h3>
+          <p class="h5 mb-3">June 2 &mdash; A special workshop &ndash; bangalore</p>
+          <p class="h5 mb-3">June 5 &mdash; Hyderabad</p>
+          <p class="h5 mb-3">June 8 &mdash; Mumbai Concert</p>
+          <p class="h5 mb-3">June 9 &mdash; Mumbai Workshop at Furtados School of Music</p>
+          <p class="h5 mb-3">June 15 &mdash; Ooty</p>
+          <p class="h6 text-right"><a href="<?=BASE_URL?>Schedule"class="text-info">Show All...</a></p>
+        </div>        
     </div>
 </div>          
 
