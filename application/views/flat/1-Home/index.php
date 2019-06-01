@@ -71,8 +71,8 @@
 <div class="container-fluid">
     <div class="row jumbotron">
         <div class="col-md-12 text-right">
-           <blockquote class="blockquote">Ananda sAgara mIdani dEhamu bhUmi bhAramu
-             <footer class="blockquote-footer">This human body which does not swim in the ocean of divine music is a mere burden to the earth.</footer>
+           <blockquote class="blockquote">This human body which does not swim in the ocean of divine music is a mere burden to the earth.
+             <footer class="blockquote-footer">Sri Tyagaraja (Kriti: Anandasagara, Raga: Garudadhvani)</footer>
            </blockquote>
         </div>
     </div>
