@@ -71,8 +71,8 @@
 <div class="container-fluid">
     <div class="row jumbotron">
         <div class="col-md-12 text-right">
-           <blockquote class="blockquote">Music is a higher revelation than all wisdom and Philosopy 
-             <footer class="blockquote-footer">Ludwig wan Beethoven</footer>
+           <blockquote class="blockquote">Ananda sAgara mIdani dEhamu bhUmi bhAramu
+             <footer class="blockquote-footer">This human body which does not swim in the ocean of divine music is a mere burden to the earth.</footer>
            </blockquote>
         </div>
     </div>
@@ -80,16 +80,6 @@
 
 <div class="container gap-above-heading-large">
     <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-          <h3 class="divheading">The First Melody</h3>
-          <p class="h5 l-1-5">Amazingly gifted Violinist Dr. Mysore Manjunath, the son and disciple of renowned violinist Prof. S.Mahadevappa, was a remarkable child prodigy who matured quickly to emerge as one of the top ranking Violinist in India today. His exceptional musical talents were first revealed at very tender age of Eight when he stormed in to the music world sweeping all the music lovers & critics off their feet by his extraordinary musical acumen and technical virtuosity.</p>
-          <p class="h6 text-right"><a href="<?=BASE_URL?>About"class="text-info">Read more...</a></p>
-        </div>        
-        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-           <img src="<?=STOCK_IMAGE_URL?>photo2.jpg" class="img-fluid" alt="" /> 
-        </div>
-    </div>    
-    <div class="row gap-above-large">
         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mb-xs-5 mb-sm-5">
            <img src="<?=STOCK_IMAGE_URL?>photo5.jpg" class="img-fluid" alt="" /> 
         </div>
