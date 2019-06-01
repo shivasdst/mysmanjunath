@@ -2,7 +2,8 @@
   <div class="row main">
     <div class="col-md-12">
       <h1 class="display-5 text-center">Downloads</h1>
-      <p class="text-muted text-center gap-below-extralarge">Please feel free to download my profile photos<br />Click on the images to download</p>        
+	  <div class="text-center"><a class="text-info mt-5" href="<?=PUBLIC_URL?>Downloads/Dr-Mysore-Manjunath-Profile-2018.pdf" target="_blank">Click here to download Dr. Manjunath’s Profile</a></div>
+      <p class="text-muted text-center gap-below-extralarge">Click on the images to download</p>        
     </div>
   </div>  
   <div class="row">  
