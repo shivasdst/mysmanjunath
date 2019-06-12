@@ -13,7 +13,12 @@
       <p>info@mysoremanjunath.com</p>
       <h4>Phone</h4> 
       <p><i class="fa fa-mobile"></i> +91 9611 840840 <i class="fa fa-1x fa-phone"></i> +91 821- 2560840</p>
-      <p class="boldgrid-google-maps" style="width: 100%; height: 200px;"><iframe style="width: 100%; height: 100%;" src="https://maps.google.com/maps?q=632%2C+Nadaloka%2C+4th+Main%2C+10th+Cross%2C+Ramakrishna+Nagar%2C+E+%26amp%3B+F+Block%2C+Mysore+-+570022%2C+India&amp;t=m&amp;z=16&amp;output=embed" frameborder="0"></iframe></p>
+      <p class="boldgrid-google-maps" style="width: 100%; height: 200px;">
+<!--
+		  <iframe style="width: 100%; height: 100%;" src="https://maps.google.com/maps?q=632%2C+Nadaloka%2C+4th+Main%2C+10th+Cross%2C+Ramakrishna+Nagar%2C+E+%26amp%3B+F+Block%2C+Mysore+-+570022%2C+India&amp;t=m&amp;z=16&amp;output=embed" frameborder="0"></iframe>
+-->
+		  <iframe style="width: 100%; height: 100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d490.71422088272493!2d76.62127602064562!3d12.281734176061116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x218633f8c0643d17!2sNadaloka+2!5e0!3m2!1sen!2sus!4v1560361314806!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</p>
     </div>  
     <div class="col-md-6 sm-above-large">
       <form method="post" action="<?=BASE_URL . 'mail/send'?>">
