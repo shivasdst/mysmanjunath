@@ -7,7 +7,7 @@
             </div>        
             <div class="col-md-4">
                <p class="copy-text text-center">
-                   <small>&copy; Dr. Mysuru Manjunath &mdash; 2019</small>
+                   <small>&copy; Dr. Mysore Manjunath &mdash; 2019</small>
                </p>                
             </div>
             <div class="col-md-4">

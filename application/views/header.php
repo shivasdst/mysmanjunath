@@ -4,7 +4,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Dr. Mysuru Manjunath</title>
+    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Dr. Mysore Manjunath</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -40,7 +40,7 @@
         <div class="container-fluid clear-paddings">
           <p class="navbar-text" id="navbarText">
             <span><img src="<?=STOCK_IMAGE_URL?>violin.png" /></span>
-            Dr. Mysuru Manjunath
+            Dr. Mysore Manjunath
           </p>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <div class="collapse navbar-collapse" id="navbarNav">
