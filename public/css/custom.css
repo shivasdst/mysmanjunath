@@ -135,3 +135,11 @@ a, a:hover{
 .captch-error, .page-full-screen{
   height: 70%;
 }
+a.carousel-link{
+  text-decoration: none;
+  color: #FFF;
+}
+a.carousel-link:hover{
+  text-decoration: none;
+  color: #FFF;
+}

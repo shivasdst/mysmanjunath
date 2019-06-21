@@ -10,6 +10,7 @@
               <li data-target="#carousel" data-slide-to="4"></li>
               <li data-target="#carousel" data-slide-to="5"></li>
               <li data-target="#carousel" data-slide-to="6"></li>
+              <li data-target="#carousel" data-slide-to="7"></li>
             </ol>
             <div class="carousel-inner">
               <div class="carousel-item active">
@@ -52,6 +53,12 @@
                 <img src="<?=STOCK_IMAGE_URL?>carousel8.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption scheme-dark">
                   <h4>With Dr. Umayalpuram K Shivaraman & Shivamani</h4>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="<?=STOCK_IMAGE_URL?>carousel9.png" class="d-block w-100" alt="...">
+                <div class="carousel-caption scheme-dark">
+                  <h4><a class="carousel-link" href="https://www.youtube.com/watch?v=2LP3xyvkJEk" target="_blank">Click here to see the video</a></h4>
                 </div>
               </div>
             </div>
